@@ -1,0 +1,74 @@
+﻿COMEQ,Commuincation equipment,1
+COMPP,Computers and peripheral equipment,2
+CONEQ,Consumer electronic equipment,3
+D01,"Crop and animal production, hunting.",4
+D02,Forestry and logging,5
+D03,Fishing and aquaculture,6
+D05,Mining of coal and lignite,7
+D06,Extraction of crude petrolum and natural gas,8
+D07,Mining of metal ores,9
+D071A241,"Mining and manufacturing of iron and steel ",10
+D072A242,Mining and manufacturing of non-ferrous metal,11
+D08,other mining and quarrying,12
+D10,Food product,13
+D11,Beverages,14
+D12,Tobocco product,15
+D13,Textiles,16
+D14,Wearing apparel,17
+D15,Leather and related product,18
+D15W,Waste textiles and leather,19
+D16,"Wood and products of wood and cork, except furniture",20
+D17,Paper and paper product,21
+D17W,Waste paper and paper board,23
+D18,printing and reproduction of recorded media,24
+D19,Coke and petroleum products,25
+D20,Chemicals and chemical products.,26
+D20W,Chemical waste,28
+D21,Basic pharmaceutical products and pharmaceutical preparations,29
+D22,Rubber and plastic products,30
+D22W,Waste rubber and plastic,32
+D23,Other non-metallic mineral products,33
+D241T31,Iron and steel,34
+D241T31W,Ferrous scrap metals,36
+D242T32,Non-ferrous metals,37
+D242T32W,Non-ferrous scrap metals,39
+D252,Weapons and ammunition,40
+D25X,Other fabricated metal products,41
+D261,Electronic components and boards,42
+D262,Computers and peripheral equipment,43
+D263,Commuincation equipment,44
+D264,Consumer electronic equipment,45
+D265,"Measuring, testing, navigating and control equipment; watches and clocks",46
+D266,"Irradition, electromedical and electrotherapeutic equipment",47
+D267,Optical instruments and photographic equipment,48
+D268,Magnetic and optical media,49
+D26X,Non-ICT electronic and optical products,50
+D27,Electrical equipment,51
+D28,Machinery and equipment n.e.c.,52
+D29,"Motor vehicles, trailers and semi-trailers",53
+D301,Building of ships and boats,54
+D302A9,Railroad equipment and transport equipment n.e.c.,55
+D303,Air and spacecraft and related machinery,56
+D304,Military fighting vehicles,57
+D325,Medical and dental instruments and supplies,58
+D35,"Electricity, gas, steam and airconditioning supply",59
+D36T99,Other activities,60
+D37T39,"Waste collection, treatment and disposal activities; materials recovery",61
+D58,Publishing,62
+D59T60,Audio visual and broadcasting,63
+ELECC,Electronic components,64
+EPA,Energy producing activities,65
+HMHRD,High and medium-high R&D intensive activities,66
+HRD,High R&D intensive activities,67
+LRD,Low R&D intensive activities,68
+MED,Manufactor of goods for medical purposes,69
+MHRD,Medium-high R&D intensive activities,70
+MISC,Miscellaneous ICT,71
+MLRD,Medium-low R&D intensive activities,72
+MRD,Medium R&D intensive activities,73
+OTHERS,Other activities n.e.c.,74
+OTHW,"Other waste, not elsewhere specified",75
+UNALLOC,Confidential or unallocated,76
+UNALLOCATED,Confidential and unallocated,77
+UNALLOCRD,Unallocated R&D intensive industries,78
+WASTE,Other waste not elsewhere specified,79
