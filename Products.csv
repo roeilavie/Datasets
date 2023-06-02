@@ -1,4 +1,5 @@
-﻿COMEQ,Commuincation equipment,1
+﻿Code,Description,Id
+COMEQ,Commuincation equipment,1
 COMPP,Computers and peripheral equipment,2
 CONEQ,Consumer electronic equipment,3
 D01,"Crop and animal production, hunting.",4
@@ -7,7 +8,7 @@ D03,Fishing and aquaculture,6
 D05,Mining of coal and lignite,7
 D06,Extraction of crude petrolum and natural gas,8
 D07,Mining of metal ores,9
-D071A241,"Mining and manufacturing of iron and steel ",10
+D071A241,Mining and manufacturing of iron and steel ,10
 D072A242,Mining and manufacturing of non-ferrous metal,11
 D08,other mining and quarrying,12
 D10,Food product,13
